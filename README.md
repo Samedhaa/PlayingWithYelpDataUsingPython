@@ -11,8 +11,7 @@ This repository contains IPython (Jupyter) Notebook that contains Data from Yelp
                       •'average number of useful votes per reviewer'
 ▬ and then i was looking for the log of the properties with taking care if the data has value = Zero.
 ▬ then i toke the percentage of these properties and print it !
+
+
 you can get the data from here : https://drive.google.com/open?id=13T2JwvESPMA65nm4nN0Ep6V2sdtkKx6d
-
-IPython Notebook : https://hub.mybinder.org/user/samedhaa-playin-datausingpython-z5nc1nu7/tree
-
-
+you can navigate the data with IPython Notebook (Jupyter) using: https://mybinder.org
