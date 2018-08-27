@@ -1,9 +1,9 @@
-This repository contains IPython (Jupyter) Notebook, 
+OverView : 
 
-You can view "Playing with Yelp_Reviews.ipynb" directly on github, or clone the repository.
+This repository contains IPython (Jupyter) Notebook that contains Data from Yelp, which i used some of the python libraries to navigate the data, such as pandas, numpy and math.
 
-the repository is about analysing Yelp Reviews Data Using python
-
-the data is here : https://drive.google.com/open?id=13T2JwvESPMA65nm4nN0Ep6V2sdtkKx6d
+you can get the data from here : https://drive.google.com/open?id=13T2JwvESPMA65nm4nN0Ep6V2sdtkKx6d
 
 IPython Notebook : https://hub.mybinder.org/user/samedhaa-playin-datausingpython-z5nc1nu7/tree
+
+
